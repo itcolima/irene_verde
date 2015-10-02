@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Daate: 2015-10-02
+  hour: 2015-10-02 11:20:50
+
+two:
+  Daate: 2015-10-02
+  hour: 2015-10-02 11:20:50
